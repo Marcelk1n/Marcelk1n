@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcelk1n
 - 👀 I’m interested in website development and web design
-- 🌱 I’m currently learning in college and learning programming languages such as: HTML, CSS, JavaScript, JQuery, PHP.
+- 🌱 I’m currently learning in college and learning programming languages such as: HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate with any company related to website development
 - 📫 How to reach me: Email (4ekagobro@mail.ru) :)
 
